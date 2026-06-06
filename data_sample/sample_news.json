@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Palo Alto Networks warns of critical PAN-OS zero-day under active exploitation",
+    "source": "BleepingComputer",
+    "published": "2024-04-12",
+    "summary": "Attackers are exploiting CVE-2024-3400, a command injection flaw in the GlobalProtect feature of PAN-OS firewalls, to deploy a Python backdoor. Observed C2 traffic to 193.34.214.83."
+  },
+  {
+    "title": "CISA adds Palo Alto PAN-OS command injection bug to KEV catalog",
+    "source": "The Hacker News",
+    "published": "2024-04-13",
+    "summary": "CVE-2024-3400 has been added to the CISA Known Exploited Vulnerabilities catalog. Federal agencies must patch the PAN-OS GlobalProtect vulnerability immediately."
+  },
+  {
+    "title": "State-linked actors weaponise Palo Alto firewall flaw to breach networks",
+    "source": "SecurityWeek",
+    "published": "2024-04-16",
+    "summary": "Researchers attribute exploitation of the PAN-OS vulnerability CVE-2024-3400 to a sophisticated threat cluster. Payload hash 5b3f0c1d9e7a2b4c6f8e0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d."
+  },
+  {
+    "title": "Clop ransomware gang exploits MOVEit Transfer zero-day in mass data theft",
+    "source": "BleepingComputer",
+    "published": "2023-06-05",
+    "summary": "The Clop ransomware group is behind mass exploitation of CVE-2023-34362, a SQL injection flaw in Progress MOVEit Transfer, stealing data from hundreds of organisations."
+  },
+  {
+    "title": "MOVEit breach victim count climbs past 600 organisations",
+    "source": "The Record",
+    "published": "2023-07-10",
+    "summary": "The fallout from the MOVEit Transfer vulnerability CVE-2023-34362 continues to grow, with newly disclosed victims across finance, healthcare and government."
+  },
+  {
+    "title": "CitrixBleed: NetScaler flaw exploited to hijack user sessions",
+    "source": "SecurityWeek",
+    "published": "2023-10-25",
+    "summary": "CVE-2023-4966, dubbed CitrixBleed, lets attackers steal session tokens from NetScaler ADC and Gateway appliances, bypassing MFA. Exploit traffic seen from 45.142.212.61."
+  },
+  {
+    "title": "Ransomware groups pile onto CitrixBleed as exploitation surges",
+    "source": "The Hacker News",
+    "published": "2023-11-02",
+    "summary": "Multiple ransomware affiliates are leveraging the Citrix NetScaler vulnerability CVE-2023-4966 for initial access, CISA warns in a joint advisory."
+  },
+  {
+    "title": "Ivanti Connect Secure VPN zero-days chained for unauthenticated RCE",
+    "source": "The Hacker News",
+    "published": "2024-01-11",
+    "summary": "Two Ivanti vulnerabilities, CVE-2023-46805 and CVE-2024-21887, are being chained by suspected nation-state actors to achieve remote code execution on VPN appliances."
+  },
+  {
+    "title": "Thousands of Ivanti VPN appliances remain unpatched as attacks widen",
+    "source": "SecurityWeek",
+    "published": "2024-01-22",
+    "summary": "Scanning shows widespread exploitation of the Ivanti Connect Secure flaws. Malicious domain update.ivanti-security[.]help observed serving web shells."
+  },
+  {
+    "title": "LockBit ransomware affiliate arrested in international law enforcement operation",
+    "source": "The Record",
+    "published": "2024-02-20",
+    "summary": "Operation Cronos disrupted the LockBit ransomware-as-a-service operation, seizing infrastructure and decryption keys after months of coordinated effort."
+  },
+  {
+    "title": "Phishing campaign abuses Microsoft 365 to harvest corporate credentials",
+    "source": "BleepingComputer",
+    "published": "2024-03-04",
+    "summary": "A large-scale phishing campaign is using adversary-in-the-middle techniques to bypass MFA and steal Microsoft 365 session cookies from enterprise users."
+  },
+  {
+    "title": "Healthcare provider discloses data breach affecting 2.3 million patients",
+    "source": "The Record",
+    "published": "2024-03-19",
+    "summary": "A US healthcare network confirmed that attackers exfiltrated patient records following an intrusion. The threat actor demanded a ransom to prevent publication."
+  },
+  {
+    "title": "Cisco IOS XE web UI implant infects tens of thousands of devices",
+    "source": "The Hacker News",
+    "published": "2023-10-17",
+    "summary": "Mass exploitation of CVE-2023-20198 in Cisco IOS XE has led to widespread deployment of a malicious implant granting attackers full device control."
+  },
+  {
+    "title": "New malware loader distributed through malicious search engine adverts",
+    "source": "SecurityWeek",
+    "published": "2024-02-28",
+    "summary": "A malvertising campaign is delivering a stealthy loader that drops infostealers. The loader beacons to command-and-control server 91.92.250.104 over HTTPS."
+  },
+  {
+    "title": "Critical Confluence flaw exploited days after disclosure",
+    "source": "BleepingComputer",
+    "published": "2023-10-06",
+    "summary": "Attackers are actively exploiting CVE-2023-22515 in Atlassian Confluence Data Center to create rogue administrator accounts on internet-facing servers."
+  },
+  {
+    "title": "Fortinet FortiOS heap overflow exploited in attacks on government targets",
+    "source": "The Hacker News",
+    "published": "2024-03-20",
+    "summary": "CVE-2023-27997, a heap-based buffer overflow in FortiOS SSL-VPN, is being used to compromise government and critical infrastructure networks."
+  },
+  {
+    "title": "Apache Log4j flaw still exploited two years after Log4Shell disclosure",
+    "source": "SecurityWeek",
+    "published": "2023-12-11",
+    "summary": "Despite patches being available since 2021, CVE-2021-44228 (Log4Shell) continues to be one of the most exploited vulnerabilities targeting unpatched Java applications."
+  },
+  {
+    "title": "Threat actors abuse WinRAR vulnerability to target traders",
+    "source": "The Record",
+    "published": "2023-09-01",
+    "summary": "CVE-2023-38831 in WinRAR is being exploited to deliver malware to cryptocurrency and stock trading forums, researchers report."
+  },
+  {
+    "title": "ConnectWise ScreenConnect flaw triggers emergency patching scramble",
+    "source": "BleepingComputer",
+    "published": "2024-02-23",
+    "summary": "CVE-2024-1709, a maximum-severity authentication bypass in ConnectWise ScreenConnect, is being mass-exploited to deploy ransomware and remote access tools."
+  },
+  {
+    "title": "DDoS attack disrupts European banking services for several hours",
+    "source": "SecurityWeek",
+    "published": "2024-03-12",
+    "summary": "A distributed denial-of-service attack briefly took several European banks offline. A pro-hacktivist group claimed responsibility on Telegram."
+  },
+  {
+    "title": "Supply-chain attack pushes trojanised updates to enterprise software users",
+    "source": "The Hacker News",
+    "published": "2024-04-02",
+    "summary": "Attackers compromised a software vendor's update mechanism to distribute a backdoor, echoing previous high-profile supply-chain incidents."
+  },
+  {
+    "title": "Microsoft patches actively exploited Windows SmartScreen bypass",
+    "source": "BleepingComputer",
+    "published": "2024-02-14",
+    "summary": "February's Patch Tuesday addresses CVE-2024-21412, a SmartScreen security feature bypass already used in financially motivated attacks."
+  },
+  {
+    "title": "Zero-day broker prices for mobile exploits hit record highs",
+    "source": "The Record",
+    "published": "2024-01-30",
+    "summary": "The market for zero-day exploits continues to expand, with brokers offering seven-figure sums for full-chain mobile remote code execution."
+  },
+  {
+    "title": "GitLab urges immediate patching of account takeover vulnerability",
+    "source": "The Hacker News",
+    "published": "2024-05-02",
+    "summary": "CVE-2023-7028 allows attackers to trigger password-reset emails to attacker-controlled addresses, enabling account takeover without interaction."
+  },
+  {
+    "title": "Backdoor discovered in xz Utils threatens Linux supply chain",
+    "source": "The Hacker News",
+    "published": "2024-03-29",
+    "summary": "A malicious backdoor tracked as CVE-2024-3094 was planted in the xz Utils compression library, nearly compromising countless Linux distributions before discovery."
+  },
+  {
+    "title": "Researchers detail xz Utils supply-chain backdoor and its near miss",
+    "source": "SecurityWeek",
+    "published": "2024-04-01",
+    "summary": "Analysis of CVE-2024-3094 reveals a patient, multi-year social-engineering effort to insert a backdoor into widely used open-source code."
+  },
+  {
+    "title": "Jenkins arbitrary file read flaw under active scanning",
+    "source": "BleepingComputer",
+    "published": "2024-01-26",
+    "summary": "CVE-2024-23897 in the Jenkins automation server allows attackers to read arbitrary files; mass internet scanning for vulnerable servers has begun."
+  },
+  {
+    "title": "Champions League semi-final ends in dramatic penalty shootout",
+    "source": "BBC Sport",
+    "published": "2024-04-30",
+    "summary": "An extraordinary night of football saw the tie decided on penalties after a 2-2 draw across both legs."
+  },
+  {
+    "title": "Stock markets rally as central bank signals interest rate pause",
+    "source": "Reuters",
+    "published": "2024-03-21",
+    "summary": "Equities climbed across major indices after policymakers indicated that rate hikes may be coming to an end."
+  },
+  {
+    "title": "Award-winning film sweeps the board at this year's ceremony",
+    "source": "Variety",
+    "published": "2024-03-11",
+    "summary": "The historical drama took home seven awards including best picture and best director at a star-studded ceremony."
+  },
+  {
+    "title": "Scientists discover new species of deep-sea coral off the coast",
+    "source": "National Geographic",
+    "published": "2024-02-18",
+    "summary": "Researchers exploring an underwater canyon have catalogued a vibrant new coral species at record depths."
+  },
+  {
+    "title": "Five easy weeknight pasta recipes for busy families",
+    "source": "Good Food",
+    "published": "2024-01-15",
+    "summary": "From classic carbonara to a quick puttanesca, these recipes get a satisfying dinner on the table in under thirty minutes."
+  },
+  {
+    "title": "Heatwave expected to break temperature records across the region",
+    "source": "Met Office",
+    "published": "2024-06-01",
+    "summary": "Forecasters warn of an incoming heatwave with temperatures climbing well above seasonal averages this week."
+  },
+  {
+    "title": "Tech giant unveils new flagship smartphone with improved camera",
+    "source": "The Verge",
+    "published": "2024-04-10",
+    "summary": "The latest handset features a redesigned camera system, a brighter display and a faster processor, the company announced."
+  },
+  {
+    "title": "Marathon world record broken at major city event",
+    "source": "BBC Sport",
+    "published": "2024-04-21",
+    "summary": "A stunning run saw the course record shattered as elite athletes battled cool conditions and an enthusiastic crowd."
+  },
+  {
+    "title": "New art exhibition celebrates a century of modern design",
+    "source": "The Guardian",
+    "published": "2024-03-29",
+    "summary": "The retrospective brings together furniture, posters and product design spanning a hundred years of creative innovation."
+  },
+  {
+    "title": "Electric vehicle sales surpass expectations in the first quarter",
+    "source": "Bloomberg",
+    "published": "2024-04-05",
+    "summary": "Quarterly figures show electric vehicle adoption accelerating faster than analysts had forecast, driven by new budget models."
+  },
+  {
+    "title": "Local council approves plans for new community park and cycle paths",
+    "source": "Local News",
+    "published": "2024-02-26",
+    "summary": "The development will add green space, a playground and several kilometres of cycle routes to the neighbourhood."
+  },
+  {
+    "title": "Chef's new cookbook focuses on seasonal vegetarian cooking",
+    "source": "Good Food",
+    "published": "2024-05-08",
+    "summary": "The collection of plant-forward recipes emphasises local, seasonal produce and simple techniques for home cooks."
+  },
+  {
+    "title": "Travel guide names top ten destinations for autumn getaways",
+    "source": "Conde Nast Traveller",
+    "published": "2024-03-02",
+    "summary": "From mountain retreats to coastal towns, this year's list highlights places to visit as the seasons turn."
+  }
+]
